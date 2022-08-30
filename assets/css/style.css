@@ -710,7 +710,7 @@ body {
 /*-----------------------------------*\
   #EVENT
 \*-----------------------------------*/
-
+/* 
 .event :is(.section-subtitle, .section-title) { text-align: center; }
 
 .event .section-title { margin-block-end: 60px; }
@@ -776,7 +776,7 @@ body {
 
 .event-card .btn-link:is(:hover, :focus) { border-color: var(--ultramarine-blue); }
 
-
+ */
 
 
 
