@@ -902,20 +902,6 @@ link:focus,
   height: 90px;
 }
 
-.bg-footer {
-  background-color: #182b45;
-}
-
-.logo-footer {
-  margin-top: -20px;
-  display: inline-block;
-}
-
-.footer {
-  border-color: #494a43 !important;
-  padding-top: 275px;
-}
-
 /* /footer */
 .filter-controls li {
   cursor: pointer;
