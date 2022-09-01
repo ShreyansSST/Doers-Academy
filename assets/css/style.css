@@ -151,7 +151,9 @@ body {
   #REUSED STYLE
 \*-----------------------------------*/
 
-.container { padding-inline: 15px; }
+.container { padding-inline: 15px;
+  text-align: center; }
+
 
 .abs-img { display: none; }
 
