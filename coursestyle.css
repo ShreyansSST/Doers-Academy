@@ -153,19 +153,20 @@ h6, .h6 {
   background-color: #fff;
 }
 .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary:focus, .btn-outline-primary.active {
-  color: #ffbc3b !important;
-  background-color: #ffbc3b !important;
-  border-color: #ffbc3b !important;
+  color: #050505 !important;
+  background-color: #3b69ff !important;
+  border-color: #3b69ff !important;
 }
 
 .btn-light {
-  color: #ffbc3b;
+  color: #3bffff;
   background-color: #fff;
   border: 1px solid #fff;
 }
 .btn-light::before {
   background-color: #ffbc3b;
 }
+
 .btn-light:active, .btn-light:hover, .btn-light.focus, .btn-light:focus, .btn-light.active {
   color: #fff !important;
   background-color: #fff !important;
