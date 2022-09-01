@@ -313,7 +313,7 @@ a h4:hover {
 }
 
 .text-primary {
-  color: #ffbc3b !important;
+  color: black !important;
 }
 
 .text-color {
@@ -436,7 +436,7 @@ a h4:hover {
   height: 10px;
   width: 10px;
   border-radius: 50%;
-  background: #ffbc3b;
+  background: blue;
   left: -25px;
   top: 5px;
 }
